@@ -1,8 +1,6 @@
 print("Hello world")
 
-# Pembuatan Variabel
-var1 = 5
-var2 = 15
-
-#Variabel Kalkulasi
-math = var1*var2
+# Calcculate circle Area
+PI = 3.14
+r = 7
+circleArea = PI * (r**2)
